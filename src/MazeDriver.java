@@ -3,7 +3,7 @@ import java.io.IOException;
 import maze.*;
 import maze.routing.*;
 
-// This is not implemented. It is mentioned that it is not marked.
+// This just for testing. Use MazeApplication.
 
 public class MazeDriver {
     public static void main(String args[]) {
